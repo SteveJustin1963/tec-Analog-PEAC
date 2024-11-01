@@ -4,4 +4,6 @@ TEC-1 version of Doug Bollen's Analogue Computer published Practical Electronics
 
 ## Ref
 - http://www.analogmuseum.org/library/PEAC_small.pdf
-
+- https://github.com/SteveJustin1963/tec-Analog
+- https://github.com/SteveJustin1963/tec-Analog-CPLD-THAT
+- 
